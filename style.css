@@ -1,0 +1,30 @@
+body {
+background:url(images/water-texture.png);
+}
+
+#header{
+background:url(images/web-header-wip.png);
+background-repeat: no-repeat;
+width: 100%;
+height:150px;
+}
+
+#container{
+width:100%;
+height:auto;
+}
+
+#leftpanel{
+width: 20%;
+margin: 10px;
+float: left;
+border: 2px solid gray;	
+}
+
+#rightpanel{
+width:75%;
+margin: 10px;
+background:#ffffff;
+border: 2px solid gray;
+float:left;
+}
