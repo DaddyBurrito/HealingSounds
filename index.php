@@ -65,19 +65,18 @@ Women and health">
     <body>
         <div id="container"> <!-- highest level container -->
 			<div id="header">
-
 			<!-- end #header -->
-
 			</div>
+
+	<div style="position:absolute;left:480px;top:136px;"><?php include("sitenav.php"); ?>
+	</div>
             <!-- LEFT PANEL CONTENT START -->
             <div id="leftpanel">
              <p><strong>Welcome to Healing Sounds Music Therapy.</strong></p> 
                 <p>Sometimes it can be difficult to seek out help for your struggles, so I appreciate you coming here.  I hope you are able to find the information you’re looking for, and I hope you will call to talk to me in person with any questions you may have.</p>
-
                 <div id="Stephanie">
-                    <img src="images/stephanie-portrait.png" alt="Stephanie Bolton" width="200" height="225" border="0" />
-                </div>  
-
+                    <img src="IMAGES/stephanie-portrait.png" alt="Stephanie Bolton" width="200" height="225" border="0" />
+				</div>
                 <div>
                     <p><em>&quot;Music has the power to truly transform our lives.&quot;</em></p>
                     <p align="right"><span> &#45; Stephanie Bolton</span></p>
