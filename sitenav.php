@@ -8,7 +8,7 @@
 
 <li><a href="SessionInfo.php"><span>Info</span></a></li>
 
-<li><a href=""><span>Blog</span></a></li>
+<li><a href="articles/index.php"><span>Blog</span></a></li>
 
 <li><a href="ContactUs.php"><span>Contact Us</span></a></li>
 
